@@ -20,7 +20,7 @@ const Team = () => {
                             <h1>{member.name}</h1>
                             <h3>{member.role}</h3>
                             <p>
-                                Massa turpis vitae, justo. Commodo diam consectetur nunc eget suspendisse. Mattis velit, pellentesque tristique tincidunt eget in.
+                                {member.about}
                             </p>
                             <div className="member__social">
                                 <button>

@@ -91,47 +91,56 @@ export const members = [
     {
         name: "Rakib Ullah",
         role: "Founder & CEO",
-        img: "/assets/rakib.png"
+        img: "/assets/rakib.png",
+        about: "Rakib Ullah has been practicing in several business sectors including software industry. He also has experiences in product management."
     },
     {
         name: "Manjur Rahman",
         role: "Chief Strategy Officer",
-        img: "/assets/manjur.png"
+        img: "/assets/manjur.png",
+        about: "Manjur is in charge of developing a company's vision, implementing business initiatives, achieving financial growth."
     },
     {
         name: "Shahed Hossain",
         role: "Chief Research Officer",
-        img: "/assets/shahed.png"
+        img: "/assets/shahed.png",
+        about: "Shahed is working intensive research for the project along with his expertise in embedded systems and IoT."
     },
     {
         name: "Thauhid Hussain",
         role: "Chief Product Officer",
-        img: "/assets/thauhid.png"
+        img: "/assets/thauhid.png",
+        about: "He is passionate about creating products that are human-centred and provide great customer experiences."
     },
     {
         name: "Zahed Hasan",
         role: "Chief Technology Officer",
-        img: "/assets/zahed.png"
+        img: "/assets/zahed.png",
+        about: "Zahed is currently leading software technology systems. He is a great problem solver and highly dedicated to fast learning. "
     },
     {
         name: "Jisan Mia",
         role: "Frontend Engineer",
-        img: "/assets/jisan.png"
+        img: "/assets/jisan.png",
+        about: "Having experience of more than 3 years as software engineer, Sakib is looking after the front-end part at Enginix."
     },
     {
         name: "Alex Barua",
         role: "Backend Engineer",
-        img: "/assets/alex.png"
+        img: "/assets/alex.png",
+        about: "With experience of more than 1 year in the industry, Alex is adding value to Enginix as a back-end developer."
     },
     {
         name: "Nazmus Sakib",
         role: "Frontend Engineer",
-        img: "/assets/sakib.png"
+        img: "/assets/sakib.png",
+        about: "Jisan is a effective frontend engineer. He creates visually appealing and highly functional frontend."
     },
     {
         name: "Md. Sabbir Hossain",
         role: "Backend Engineer",
-        img: "/assets/sabbir.png"
+        img: "/assets/sabbir.png",
+        about: "Enginix is having Sabbir on board to look after the back-end part. He is well known for his logical problem solving experience."
     }
 ]
 
