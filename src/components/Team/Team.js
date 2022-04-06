@@ -5,11 +5,11 @@ import { members } from '../../data'
 const Team = () => {
     return (
         <section className="team">
-            <h1>Out Team</h1>
+            <h1>Meet the Team</h1>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                <br />
-                Adipiscing aliquam enim mi libero nisi vitae ipsum.
+               Enginix owns a team of some enthusiastic, and passionate 
+               <br />people in their respective fields. Our team believes in
+               <br /> absolute quality. Meet the team-
             </p>
 
             <div className="team__members">
