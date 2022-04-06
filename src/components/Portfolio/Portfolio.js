@@ -7,9 +7,7 @@ const Portfolio = () => {
         <section className="portfolio">
             <h1>Portfolio</h1>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                <br />
-                Adipiscing aliquam enim mi libero nisi vitae ipsum.
+            Take a look at some of our successful projects-
             </p>
 
             <div className="portfolio__list">
@@ -20,11 +18,7 @@ const Portfolio = () => {
                             <div className="portfolio__item__body">
                                 <h1>{item.title}</h1>
                                 <p>
-                                    Lorem ipsum dolor sit amet,
-                                    <br />
-                                    consectetur adipiscing elit. Adipiscing
-                                    <br />
-                                    aliquam enim mi libero nisi vitae ipsum.
+                                    {item.detail}
                                 </p>
                                 <img src={item.logo} alt="" className={item.resize ? 'resize logo' : 'logo'} />
                             </div>

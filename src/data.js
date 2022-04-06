@@ -45,37 +45,43 @@ export const portfolios = [
         title: "Fuel Delivery Logistics System",
         logo: "/assets/uftl.svg",
         cover: "/assets/portfolio/1.png",
-        resize: false
+        resize: false,
+        detail: "It can be used to order fuel according to your location, time and track the order's progress."
     },
     {
         title: "Academic Exam Management System",
         logo: "/assets/poc.svg",
         cover: "/assets/portfolio/2.png",
-        resize: false
+        resize: false,
+        detail: "An exam management web app that allows students to give exams, view results, automatically rank results, and fix the advanced exam dates."
     },
     {
         title: "Tunibibi Global Trading Application",
         logo: "/assets/tuni.svg",
         cover: "/assets/portfolio/3.png",
-        resize: false
+        resize: false,
+        detail: "This web app is utilized for payment processing both locally and internationally, as well as warehousing, shipping, and customs clearance."
     },
     {
         title: "Academic Web Application for DU",
         logo: "/assets/du.svg",
         cover: "/assets/portfolio/4.png",
-        resize: true
+        resize: true,
+        detail: "Teachers can post blogs, publish results and notices. Students can share their university activities on this website."
     },
     {
         title: "Cloud Kitchen Management System",
         logo: "/assets/onnow.png",
         cover: "/assets/portfolio/5.png",
-        resize: false
+        resize: false,
+        detail: "This web app is used for D2C food ordering systems, kitchen management systems, and digital payment integration."
     },
     {
         title: "Academic Web Application for BUET",
         logo: "/assets/buet.svg",
         cover: "/assets/portfolio/6.png",
-        resize: true
+        resize: true,
+        detail: "Teachers can post blogs, results and announcements. Students can get information about their university activities."
     },
 ]
 

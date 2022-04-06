@@ -40,11 +40,14 @@ const Services = () => {
                             Development
                         </h1>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur
+                            Get customized & high-performing    
                             <br />
-                            adipiscing elit. Adipiscing aliquam enim
+                            industry-specific web applications
                             <br />
-                            mi libero nisi
+                            cost-effectively.
+
+                             
+
                         </p>
                         <button>Start a Project</button>
                     </div>
@@ -57,12 +60,15 @@ const Services = () => {
                             Development
                         </h1>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur
+                            Reach customers via Android, iOS, or 
                             <br />
-                            adipiscing elit. Adipiscing aliquam enim
+                            cross-platform solutions and satisfy
                             <br />
-                            mi libero nisi
+                            your mobile users.
                         </p>
+
+                         
+
                         <button>Start a Project</button>
                     </div>
                 </div>
