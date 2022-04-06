@@ -19,7 +19,9 @@
 
     .member__single {
         @apply p-10 rounded;
-        box-shadow: 10px 10px 20px #eaeaea, -10px -10px 20px #eaeaea;
+        /* box-shadow: 10px 10px 20px #eaeaea, -10px -10px 20px #eaeaea; */
+        background: #FFFFFF;
+        box-shadow: 4.6926px 4.6926px 79.7742px rgba(0, 0, 0, 0.05);
     }
 
     .member__single img {
